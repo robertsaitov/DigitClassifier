@@ -1,3 +1,3 @@
 # DigitClassifier
 
-This is my test to try out ML digit classifier
+This is my test to try out a ML digit classifier
